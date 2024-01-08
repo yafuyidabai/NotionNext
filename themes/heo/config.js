@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://dour-zebu-cb5.notion.site/dd94928b247a4310bc0bf8823e9ee7a3?v=d7004e2693e1467c8a2c08f6d47d1f2a&pvs=74',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '情绪垃圾桶', url: '/tag/情绪垃圾桶' },
+  HEO_HERO_CATEGORY_2: { title: '灵感便利贴', url: '/tag/灵感便利贴' },
+  HEO_HERO_CATEGORY_3: { title: '我这一生', url: '/tag/我这一生' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -29,15 +29,15 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '你好！我是<点击解锁身份>',
+    ':poop: 网络碎嘴子',
+    ':poop: 现实老实人',
+    ':poop: ddl舞蹈家',
+    ':poop: 白日梦想家',
+    ':poop: 虚无主义人',
+    ':poop: 美好家园总设计师'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://www.instagram.com/jason_b_a_i', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -100,10 +100,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_1: '一起聊聊',
+  HEO_SOCIAL_CARD_TITLE_2: '加入我们讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/FreeShareFreeLearn',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
