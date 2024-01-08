@@ -30,12 +30,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是<点击解锁身份>',
-    ':poop: 网络碎嘴子',
-    ':poop: 现实老实人',
-    ':poop: ddl舞蹈家',
-    ':poop: 白日梦想家',
-    ':poop: 虚无主义人',
-    ':poop: 美好家园总设计师'
+    '💩 网络碎嘴子',
+    '💩 现实老实人',
+    '💩 ddl舞蹈家',
+    '💩 白日梦想家',
+    '💩 虚无主义人',
+    '💩 美好家园总设计师'
   ],
   HEO_INFO_CARD_URL: 'https://www.instagram.com/jason_b_a_i', // 个人资料底部按钮链接
 
