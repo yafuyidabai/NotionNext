@@ -5,22 +5,22 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '喜鹊喳喳叫', url: 'https://goldfishies.com' },
-    { title: '必有客人到', url: 'https://sharkle.com' }
+    { title: '发愤忘食', url: 'https://goldfishies.com' },
+    { title: '乐以忘忧', url: 'https://sharkle.com' }
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '吃喝玩乐',
-  HEO_HERO_TITLE_2: '再少学一点',
+  HEO_HERO_TITLE_1: '此时情绪此时天',
+  HEO_HERO_TITLE_2: '无事小神仙',
   HEO_HERO_TITLE_3: 'Bailuobu.COM',
   HEO_HERO_TITLE_4: '在线更新',
-  HEO_HERO_TITLE_5: '打开notion一键轻松复制',
-  HEO_HERO_TITLE_LINK: 'https://dour-zebu-cb5.notion.site/dd94928b247a4310bc0bf8823e9ee7a3?v=d7004e2693e1467c8a2c08f6d47d1f2a&pvs=74',
+  HEO_HERO_TITLE_5: '公之于众的日记并不能反映人物的真实情感',
+  HEO_HERO_TITLE_LINK: 'https://x.com/yafuyidabai',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '情绪垃圾桶', url: '/tag/情绪垃圾桶' },
   HEO_HERO_CATEGORY_2: { title: '灵感便利贴', url: '/tag/灵感便利贴' },
-  HEO_HERO_CATEGORY_3: { title: '我这一生', url: '/tag/我这一生' },
+  HEO_HERO_CATEGORY_3: { title: '目标兴奋剂', url: '/tag/目标兴奋剂' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -29,12 +29,12 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是<点击解锁身份>',
+    '点击解锁身份',
     '💩 网络碎嘴子',
     '💩 现实老实人',
     '💩 ddl舞蹈家',
     '💩 白日梦想家',
-    '💩 虚无主义人',
+    '💩 原地踏步运动员',
     '💩 美好家园总设计师'
   ],
   HEO_INFO_CARD_URL: 'https://www.instagram.com/jason_b_a_i', // 个人资料底部按钮链接
